@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 
 --><h1 align="center">Hi 👋, I'm Abrham Taye</h1>
 <h3 align="center">working on Advertizment company</h3>
-<h4 align="right" * 🔭 I’m currently  </h4>
-<h4 align="right" * 🌱 I’m currently learning ALX SE</h4>
-<h4 align="right" * 📫 How to reach me: +251912364613</h4>
+🔭 I’m currently </br>
+🌱 I’m currently learning ALX SE </br>
+📫 How to reach me: +251912364613 </br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleccrazy&label=Profile%20views&color=0e75b6&style=flat" alt="Abrham" /> </p>
 
