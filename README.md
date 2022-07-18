@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 --><h1 align="center">Hi 👋, I'm Abrham Taye</h1>
 
 ```
-🔭 I’m currently working on Advertizment company</br>
-🌱 I’m currently learning ALX SE </br>
-📫 How to reach me: +251912364613 </br>
-✍️ Email me abrhamtayetessfaye@gmail.com </br>
+🔭 I’m currently working on Advertizment company
+🌱 I’m currently learning ALX SE 
+📫 How to reach me: +251912364613 
+✍️ Email me abrhamtayetessfaye@gmail.com 
 ```
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
